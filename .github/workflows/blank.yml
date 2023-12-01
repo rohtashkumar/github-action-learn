@@ -29,4 +29,3 @@ jobs:
     - name: run multiple
       run: |
         ls -ltra; pwd
-        who; whoami,env
